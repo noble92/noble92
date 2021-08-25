@@ -1,0 +1,98 @@
+{
+  "Json_Data": [
+    {
+
+      "Active_SDK": "ironsource facebook",
+
+
+      "Facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Facebook_250": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  
+      "IronSource_App_Key": "10b136565",
+      "IronSource_interstitial": "DefaultInterstitial",
+      "IronSource_banner": "DefaultBanner",
+
+      "Applovin_interstitial_id": "XXXXXXXXXXXXXXXXXX",
+      "Applovin_banner_id": "XXXXXXXXXXXXXXXXXX",
+	  
+	  
+      "Show__Live__Ads": "facebook",
+	  
+
+      "Active_PackageName": "com.researchpaperpro.de7",
+
+	  
+      "App_suspended": "no",
+      "NewApp_package": "com.facebook.lite",
+      "NewApp_title": "App update!",
+      "NewApp_message": "please update to new version!",
+	  
+	  
+
+	  
+      "Cpa_activate": "no",
+      "Cpa_text": "Free Diamonds 4 Free Fire",
+      "Cpa_icon": "https://i.imgur.com/IOE3zEj.jpg",
+      "Cpa_url": "https://www.google.com/",
+	  
+
+      "Json_Checker": "dont_change_this"
+    }
+  ],
+
+
+  "GuideContent": [
+    {
+      "title": "Guide 1",
+      "text": "text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 ",
+      "text2": "text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 "
+    },
+    {
+      "title": "Guide 2",
+      "text": "text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 ",
+      "text2": "text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 "
+    },
+    {
+      "title": "Guide 3",
+      "text": "text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 ",
+      "text2": "text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 "
+    },
+    {
+      "title": "Guide 4",
+      "text": "text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 ",
+      "text2": "text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 "
+    },
+    {
+      "title": "Guide 5",
+      "text": "text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 ",
+      "text2": "text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 "
+    },
+    {
+      "title": "Guide 6",
+      "text": "text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 ",
+      "text2": "text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 "
+    },
+    {
+      "title": "Guide 7",
+      "text": "text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 ",
+      "text2": "text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 "
+    },
+    {
+      "title": "Guide 8",
+      "text": "text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 ",
+      "text2": "text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 "
+    },
+    {
+      "title": "Guide 9",
+      "text": "text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 ",
+      "text2": "text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 "
+    },
+    {
+      "title": "Guide 10",
+      "text": "text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 text 1 ",
+      "text2": "text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 "
+    }
+  ]
+}
